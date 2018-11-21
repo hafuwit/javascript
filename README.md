@@ -1,2 +1,2 @@
-# javascript-function
-Library with Javascript Function
+# javascript-library
+Neccessary Javascript Functions
